@@ -21,18 +21,30 @@ export default function Home() {
         </p>
       </div>
 
-      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-1 lg:text-center">
-        <h1 className="text-4xl font-bold text-white my-4">
+      <div className="mb-32 grid text-center lg:max-w-3xl lg:w-full lg:mb-0 lg:grid-cols-1 lg:text-center">
+        <p className="text-4xl font-bold text-white my-4">
           Vision
-        </h1>
-        <p className="font-bold text-white">
+        </p>
+        <p className="mb-6 font-bold text-white">
         The goal of MycelNet is one of decentralizing the concept of &quot;The Cloud.&quot; Empowering power users, tinkerers, hobbyists, and businesses to take part in the creation of a secure network that consumers can leverage for hosting a website, web services, games, AI, or any multitude of other workloads. These use cases and so many more are prime candidates to run as resilient distributed workloads across MycelNet infrastructure. No longer constrained by regional data centers or requiring distributed CDN services.
+        </p>
+
+        <p className="mb-6 font-bold text-white">
+        With MycelNet we strive to create a workflow that mimics that of popular platforms such as <a href="https://fly.io">fly.io</a> or <a href="https://netlify.com">Netlify</a>. Leveraging technologies: Substrate, IPFS, Kubernetes, and more. We plan to extend our abilities beyond the constraints of application and web hosting services to more general workloads as we develop against an upcoming roadmap. The possibilities are only limited by the resources that support MycelNet as a whole. Our strength as a platform grows with the network and the diversity of resources provided by its users.
+        </p>
+
+        <p className="mb-6 font-bold text-white">
+        Critical to the success of MycelNet is its ability to support consumers in a way that is familiar to their current workflows. Adapting tools and strategies in current development processes, we look toward the future while reducing friction in time to market. The requirement for users to adopt new untested technologies or development strategies will only work against the overall growth of a platform. It is with this understanding that we are designing MycelNet to be a next-gen ecosystem, while not creating new exotic roadblocks in its adoption. Streamlined from both the providers' side, as well as the consumer to increase opportunities and reduce overall time to market.
+        </p>
+
+        <p className="font-bold text-white">
+        We've undertaken a formidable challenge, fully aware of the intricate landscape of the internet and the prevailing advantages offered by the contemporary 'Cloud.' Our core team boasts a wealth of expertise in catering to organizations and clients, delivering substantial value through the efficiencies inherent in cloud services. With a profound grasp of both development and infrastructure management, we're dedicated to reshaping the cloud paradigm. Our vision revolves around crafting a secure, open, and decentralized internet-ready platform, that's primed for consumption and scalability far into the future.
         </p>
       </div>
 
-      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-1 lg:text-center relative place-items-center ">
+      <div className="grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-1 lg:text-center relative place-items-center ">
         <h1 className="text-md font-bold text-white my-4">
-          Currently hosted on
+          Currently hosted by
         </h1>
 
         <Image
