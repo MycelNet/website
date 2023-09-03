@@ -26,7 +26,7 @@ export default function Home() {
           Vision
         </h1>
         <p className="font-bold text-white">
-        The goal of MycelNet is one of decentralizing the concept of "The Cloud." Empowering power users, tinkerers, hobbyists, and businesses to take part in the creation of a secure network that consumers can leverage for hosting a website, web services, games, AI, or any multitude of other workloads. These use cases and so many more are prime candidates to run as resilient distributed workloads across MycelNet infrastructure. No longer constrained by regional data centers or requiring distributed CDN services.
+        The goal of MycelNet is one of decentralizing the concept of &quot;The Cloud.&quot; Empowering power users, tinkerers, hobbyists, and businesses to take part in the creation of a secure network that consumers can leverage for hosting a website, web services, games, AI, or any multitude of other workloads. These use cases and so many more are prime candidates to run as resilient distributed workloads across MycelNet infrastructure. No longer constrained by regional data centers or requiring distributed CDN services.
         </p>
       </div>
 
