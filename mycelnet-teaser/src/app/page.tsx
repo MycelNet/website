@@ -21,7 +21,7 @@ export default function Home() {
         </p>
       </div>
 
-      <div className="mb-32 grid text-center lg:max-w-3xl lg:w-full lg:mb-0 lg:grid-cols-1 lg:text-center">
+      <div className="mb-16 grid text-center lg:max-w-3xl lg:w-full lg:mb-0 lg:grid-cols-1 lg:text-center">
         <p className="text-4xl font-bold text-white my-4">
           Vision
         </p>
@@ -42,7 +42,7 @@ export default function Home() {
         </p>
       </div>
 
-      <div className="grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-1 lg:text-center relative place-items-center ">
+      <div className="grid text-center lg:max-w-3xl lg:w-full lg:mb-0 lg:grid-cols-1 lg:text-center relative place-items-center ">
         <h1 className="text-md font-bold text-white my-4">
           Currently hosted by
         </h1>
