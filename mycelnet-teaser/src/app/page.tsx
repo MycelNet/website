@@ -30,7 +30,7 @@ export default function Home() {
         </p>
       </div>
 
-      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-1 lg:text-center relative flex place-items-center ">
+      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-1 lg:text-center relative place-items-center ">
         <h1 className="text-md font-bold text-white my-4">
           Currently hosted on
         </h1>
